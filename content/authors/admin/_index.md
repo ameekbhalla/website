@@ -1,11 +1,11 @@
 ---
-bio: My research interests include quantitative genetics, cognitive psychology, and evolutionary biology.
+# bio: My interests include quantitative genetics, evolutionary psychology, and experimental design
 education:
   courses:
   - course: PhD in Computational Biology/Genomics
     institution: Institute of Genomics and Integrative Biology (CSIR)
     year: 2021
-  - course: Postgraduate Diploma in Biochemical Technology
+  - course: PG Diploma in Biochemical Technology
     institution: University of Delhi
     year: 2007
   - course: BSc (Hons) Biomedical Science
@@ -21,9 +21,9 @@ interests:
 - Reproducible research
 - Data visualization
 organizations:
-- name: Institute of Genomics and Integrative Biology (CSIR)
-  url: https://www.igib.res.in/
-role: Senior Research Fellow
+# - name: Institute of Genomics and Integrative Biology (CSIR)
+#   url: https://www.igib.res.in/
+role: Data Scientist, Geneticist, <br> Statistical Consultant 
 social:
 - icon: envelope
   icon_pack: fas
@@ -53,4 +53,4 @@ The top personality traits that my colleagues seek me out for are my critical-th
 I am interested in developing predictive applications for personalized medicine, biotechnology, and pharmaceuticals.
 Please get in touch if you want to hear how genomic data might help in making predictions in your field too.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
