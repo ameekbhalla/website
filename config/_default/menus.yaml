@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: '#about'
+    url: '/event'
     weight: 10
   - name: Blog
     url: '#posts'
