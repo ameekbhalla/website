@@ -5,10 +5,10 @@
 
 main:
   - name: About
-    url: '/event'
+    url: '#home'
     weight: 10
   - name: Blog
-    url: '#posts'
+    url: '/blog'
     weight: 20
   # - name: Projects
   #   url: '#projects'
@@ -16,12 +16,12 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Research
+    url: '/research'
     weight: 50
   # - name: Courses
   #   url: courses/
   #   weight: 60
-  - name: Contact
-    url: '#contact'
+  - name: Consulting
+    url: '/consulting'
     weight: 70
