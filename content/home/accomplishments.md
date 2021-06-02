@@ -37,8 +37,7 @@ item:
 - certificate_url: https://s3.amazonaws.com/verify.edx.org/downloads/057552ea6521492594b3c4c57b422f28/Certificate.pdf
   date_end: ""
   date_start: "2015-05-01"
-  description: "* Topics covered:  how businesses such as Oakland Athletics, eHarmony, the Framingham Heart Study,
-  Twitter, IBM Watson, and Netflix used machine learning techniques to gain a competitive edge"
+  description: "* Topics covered:  machine learning techniques used by Twitter, Netflix, IBM Watson, Oakland Athletics, eHarmony and other businesses to gain a competitive edge in business forecasting"
   organization: edX
   organization_url: https://www.edx.org
   title: Analytics Edge
