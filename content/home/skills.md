@@ -33,7 +33,7 @@ feature:
   icon_pack: fab
   name: Git
 - description: 70%
-  icon: laptop-code
+  icon: robot
   icon_pack: fas
   name: Machine Learning
 - description: 30%

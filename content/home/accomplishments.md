@@ -28,7 +28,8 @@ item:
 - certificate_url: https://s3.amazonaws.com/verify.edx.org/downloads/0b1e7ad6646b410695c06d004bdc0ef2/Certificate.pdf
   date_end: ""
   date_start: "2015-09-01"
-  description: ""
+  description: " * Topics covered: random variables, distributions, p-values and confidence intervals, exploratory data
+  analysis, non-parametric statistics"
   organization: edX
   organization_url: https://www.edx.org
   title: Statistics and R for the Life Sciences
@@ -36,7 +37,8 @@ item:
 - certificate_url: https://s3.amazonaws.com/verify.edx.org/downloads/057552ea6521492594b3c4c57b422f28/Certificate.pdf
   date_end: ""
   date_start: "2015-05-01"
-  description: "Predictive Analytics in Business"
+  description: "* Topics covered:  how businesses such as Oakland Athletics, eHarmony, the Framingham Heart Study,
+  Twitter, IBM Watson, and Netflix used machine learning techniques to gain a competitive edge"
   organization: edX
   organization_url: https://www.edx.org
   title: Analytics Edge
@@ -44,7 +46,8 @@ item:
 - certificate_url: https://drive.google.com/file/d/1uQ2_46YJqHNyYbSox2azM8L-NqkYzoNv/view?usp=sharing
   date_end: ""
   date_start: "2014-11-01"
-  description: ""
+  description: "* Topics covered: principles of good writing, the format of a scientific manuscript, peer review,
+  grant writing, ethical issues in scientific publication, writing for a general audience"
   organization: Stanford Online
   organization_url: https://online.stanford.edu
   title: 'Writing in the Sciences'

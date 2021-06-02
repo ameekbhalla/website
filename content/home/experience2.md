@@ -32,16 +32,6 @@ experience:
     description: |2- 
         * Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team
         
-  - title: Graduate Research Fellow (Computational Genomics) 
-    company: Institute of Genomics and Integrative Biology (CSIR)
-    company_url: 'https://www.igib.res.in/'
-    location: New Delhi
-    date_start: '2015-08-01'
-    date_end: '2017-07-31'
-    description: |2-
-        * Implemented mixed models to handle nested data, increasing statistical power by 1000%
-        * Invented techniques for mass production and processing of biological replicates, resulting in the publication of two research articles.
-        
   - title: Language Editor (Molecular Biology)
     company: Cactus Communications Pvt. Ltd.
     company_url: '<https://cactusglobal.com/brands/editage/>'
