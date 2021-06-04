@@ -8,7 +8,7 @@ main:
     url: '#home'
     identifier: "a-unique-reference"
     weight: 10
-  - name: Biography
+  - name: Résumé
     url: '#biography'
     parent: "a-unique-reference"
     weight: 5
@@ -18,6 +18,10 @@ main:
     weight: 10
   - name: Experience
     url: '#experience'
+    parent: "a-unique-reference" 
+    weight: 15
+  - name: Education
+    url: '#accomplishments2'
     parent: "a-unique-reference" 
     weight: 20
   - name: Certifications
