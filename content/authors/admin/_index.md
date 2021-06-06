@@ -55,6 +55,15 @@ Hello, I am a data scientist and geneticist ---</h3>
 
 I am interested in using genomics for making predictions in medicine, biotechnology, and pharmaceuticals.
 My expertise lies in designing decisive quantitative experiments, selecting practical machine learning tools, creating intuitive data visualizations, and composing jargon-free reports.
-<!--# The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas. ---> Please get in touch if you belong to the life science industry and would like to hear more about genomics.
+<!--# The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas. --->If you belong to the life science industry and would like to talk more about genomic data science, please get in touch by clicking one of the social media icons.
 
-<br> {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
+<br> <a class="btn btn-outline-primary btn-page-header" href="media/demo_resume.pdf" target="_blank" rel="noopener"> Download my résumé </a>
+
+<!--# <a class="btn btn-outline-primary btn-page-header" href="#experience" target="_blank" rel="noopener"> Scroll-through résumé </a> --->
+
+<div style="position: relative; text-align: center">
+    Scroll through my résumé <br>
+        <a href="#skills">
+        <i class="fas fa-chevron-down"></i>
+        </a>
+</div>
