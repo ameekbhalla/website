@@ -1,0 +1,22 @@
+# Theme metadata
+name = "grayscale"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1565c0"
+
+# Menu
+menu_primary = "#F4F4F4" #background
+menu_text = "#34495e"
+menu_text_active = "#2962ff"
+menu_title = "#2b2b2b" #name of site
+
+# Home sections
+home_section_odd = "#EEEEEE" #background
+home_section_even = "#F4F4F4" #background
+
+[dark] #only the links change in the dark mode
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
