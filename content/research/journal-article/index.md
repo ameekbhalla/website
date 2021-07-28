@@ -1,52 +1,14 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
-authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+title: "Foreign Direct Investment, Regime Type, and Labor Protest in Developing Countries"
+date: 2011-01-01
+publishDate: 2021-01-05T20:13:52.626042Z
+authors: ["Graeme B. Robertson", "Emmanuel Teitelbaum"]
+publication_types: ["2"]
+abstract: "We explore the relationship between FDI, regime type, and strikes in low- and middle-income countries. We argue that FDI produces social tensions and opportunities for protest that can result in higher levels of industrial conflict. However, the effect of FDI is moderated by regime type. While democracies tend to have higher levels of protest overall, they are better able than authoritarian regimes to cope with the strains arising from FDI. We cite two reasons. First, political competition forces regimes to incorporate workers, which shifts conflict from industrial relations to the political arena. Second, democracies provide workers with freedom of association rights, which facilitate institutionalized grievance resolution. We test the argument using a new dataset of labor protest in low- and middle-income countries for the period 1980–2005."
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-projects: []
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ""
-publication_types:
-- "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-title: An example journal article
-url_code: ""
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+  preview_only: true
+publication: "*American Journal of Political Science*"
+url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2011.00510.x"
+doi: "https://doi.org/10.1111/j.1540-5907.2011.00510.x"
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
