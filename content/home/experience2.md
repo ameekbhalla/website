@@ -30,7 +30,7 @@ experience:
     date_start: '2020-04-01'
     date_end: ''
     description: |2- 
-        * Evaluated the study design, statistics, and visuals of more than 300 manuscripts for the medical journal Cureus while coordinating remotely with an international team.
+        * Evaluated the experimental design and statistics of more than 300 manuscripts for the medical journal Cureus while coordinating remotely with an international team.
         
   - title: Editor (Molecular Biology)
     company: Cactus Communications Pvt. Ltd.
