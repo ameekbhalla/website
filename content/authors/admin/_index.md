@@ -58,7 +58,7 @@ I am interested in using genomics for making predictions in medicine, biotechnol
 My expertise lies in designing decisive quantitative experiments, selecting practical machine learning tools, creating intuitive data visualizations, and composing jargon-free reports.
 <!--# The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas. --->If you belong to the life science industry and would like to talk more about genomic data science, please get in touch by clicking one of the social media icons.
 
-<br> <a class="btn btn-outline-primary btn-page-header" href="/static/media/Ameek_résumé.pdf" target="_blank" rel="noopener"> Download my résumé </a>
+<br> <a class="btn btn-outline-primary btn-page-header" href="https://github.com/ameekbhalla/cv/raw/master/default-style/Ameek_Bhalla_Résumé.pdf" target="_blank" rel="noopener"> Download my résumé </a>
 
 <!--# <a class="btn btn-outline-primary btn-page-header" href="#experience" target="_blank" rel="noopener"> Scroll-through résumé </a> --->
 
