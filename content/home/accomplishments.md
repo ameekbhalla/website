@@ -29,7 +29,7 @@ item:
   date_end: ""
   date_start: "2015-09-01"
   description: " * Topics covered: random variables, distributions, p-values and confidence intervals, exploratory data
-  analysis, non-parametric statistics"
+  analysis, non-parametric statistics."
   organization: edX
   organization_url: https://www.edx.org
   title: Statistics and R for the Life Sciences
@@ -37,7 +37,7 @@ item:
 - certificate_url: https://s3.amazonaws.com/verify.edx.org/downloads/057552ea6521492594b3c4c57b422f28/Certificate.pdf
   date_end: ""
   date_start: "2015-05-01"
-  description: "* Topics covered:  machine learning techniques used by Twitter, Netflix, IBM Watson, Oakland Athletics, eHarmony and other businesses to gain a competitive edge in business forecasting"
+  description: "* Topics covered:  machine learning techniques used by Twitter, Netflix, IBM Watson, Oakland Athletics, eHarmony and other businesses to gain a competitive edge in business forecasting."
   organization: edX
   organization_url: https://www.edx.org
   title: Analytics Edge
@@ -46,7 +46,7 @@ item:
   date_end: ""
   date_start: "2014-11-01"
   description: "* Topics covered: principles of good writing, the format of a scientific manuscript, peer review,
-  grant writing, ethical issues in scientific publication, writing for a general audience"
+  grant writing, ethical issues in scientific publication, writing for a general audience."
   organization: Stanford Online
   organization_url: https://online.stanford.edu
   title: 'Writing in the Sciences'

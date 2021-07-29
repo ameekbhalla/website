@@ -30,7 +30,7 @@ experience:
     date_start: '2020-04-01'
     date_end: ''
     description: |2- 
-        * Scored a 4.9/5 from authors for critiquing the statistics, data visuals, and semantics of 150 manuscripts, along with an international team
+        * Evaluated the study design, statistics, and data visualization of more than 300 manuscripts for the medical journal Cureus while coordinating remotely with an international team.
         
   - title: Language Editor (Molecular Biology)
     company: Cactus Communications Pvt. Ltd.
@@ -39,5 +39,5 @@ experience:
     date_start: '2017-04-01'
     date_end: '2020-03-31'
     description: |2- 
-        * Boosted the readability of 300 manuscripts from more than 10 developing countries, enhancing their acceptance by life science journals
+        * Customized manuscripts written by authors from more than 10 developing countries, enhancing their acceptance by top-tier life science journals.
 ---

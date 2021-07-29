@@ -31,7 +31,7 @@ item:
   description:
   organization: 'Institute of Genomics and Integrative Biology (CSIR)'
   organization_url: 
-  title: 'PhD in Computational Biology/Genomics'
+  title: 'Ph.D. in Computational Biology/Genomics'
   url:
 - certificate_url:
   date_end: "2007-07-01"
@@ -39,7 +39,7 @@ item:
   description:
   organization: 'University of Delhi'
   organization_url: 
-  title: 'PG Diploma in Biochemical Technology'
+  title: 'P.G. Diploma in Biochemical Technology'
   url:
 - certificate_url:
   date_end: "2006-07-01"
@@ -47,6 +47,6 @@ item:
   description:
   organization: 'University of Delhi'
   organization_url: 
-  title: 'BSc (Hons) in Biomedical Science'
+  title: 'B.Sc. (Hons.) in Biomedical Science'
   url:
 ---
