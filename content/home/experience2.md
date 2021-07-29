@@ -23,16 +23,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Content Editor (Medical Science)
+  - title: Statistical Editor (Medical Science)
     company: Cureus Inc.
     company_url: '<https://www.cureus.com/>'
     location: Palo Alto (Remote)
     date_start: '2020-04-01'
     date_end: ''
     description: |2- 
-        * Evaluated the study design, statistics, and data visualization of more than 300 manuscripts for the medical journal Cureus while coordinating remotely with an international team.
+        * Evaluated the study design, statistics, and visuals of more than 300 manuscripts for the medical journal Cureus while coordinating remotely with an international team.
         
-  - title: Language Editor (Molecular Biology)
+  - title: Editor (Molecular Biology)
     company: Cactus Communications Pvt. Ltd.
     company_url: '<https://cactusglobal.com/brands/editage/>'
     location: Mumbai (Remote)
