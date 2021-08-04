@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90% <br> meta-analyses, RCTs, case-control, time-to-event, repeated measures, fractional factorials 
+- description: 90% <br> meta-analyses, RCTs, case-control studies, cohort studies, repeated measures, fractional factorials 
   icon: flask
   icon_pack: fas
   name: Study Design
