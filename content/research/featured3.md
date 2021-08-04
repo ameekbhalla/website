@@ -1,4 +1,5 @@
 ---
+active: false
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
@@ -7,9 +8,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 75
 
-title: Peer-Reviewed Publications
+title: Preprint
 subtitle: ""
 
 content:
@@ -21,7 +22,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "2"
+    publication_type: "3"
     tag: ""
     exclude_featured: true
   # Page order: descending (desc) or ascending (asc) date.
