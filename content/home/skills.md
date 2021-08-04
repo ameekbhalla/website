@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90% <br> ggplot2, dplyr, tidyr, purrr, broom, lme4, knitr, caret
-  icon: r-project
-  icon_pack: fab
-  name: R
+- description: 90% <br> meta-analyses, RCTs, case-control, time-to-event, repeated measures, fractional factorials 
+  icon: flask
+  icon_pack: fas
+  name: Study Design
 - description: 80% <br> distributions, significance testing, resampling, non-parametric tests 
   icon: chart-line
   icon_pack: fas
@@ -40,18 +40,18 @@ feature:
 #   icon: database
 #   icon_pack: fas
 #   name: SQL
-- description: 90% <br> fractional factorials, repeated measures, meta-analyses
-  icon: flask
-  icon_pack: fas
-  name: Experiment Design
-- description: 90% <br> microarray, RNA sequencing, qPCR, RNAi
-  icon: dna
-  icon_pack: fas
-  name: Genomics
 - description: 90% <br> manuscript preparation, copy and content editing, grant writing 
   icon: pencil-alt
   icon_pack: fas
   name: Academic Writing
+- description: 90% <br> ggplot2, dplyr, tidyr, purrr, broom, lme4, knitr, caret
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 90% <br> microarray, RNA sequencing, qPCR, RNAi
+  icon: dna
+  icon_pack: fas
+  name: Genomics
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

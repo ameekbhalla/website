@@ -51,6 +51,15 @@ item:
   organization_url: https://online.stanford.edu
   title: 'Writing in the Sciences'
   url: "https://online.stanford.edu/courses/som-ysciewrite-writing-sciences"
+- certificate_url: https://drive.google.com/file/d/1nbtVWLKB4N6bRHN6k-nN2POeW3Vv1iil/view?usp=sharing
+  date_end: ""
+  date_start: "2014-09-03"
+  description: "* Topics covered: clinical study designs; measures of disease risk, diagnostic testing, statistical
+  inference, regression methods."
+  organization: Stanford Online
+  organization_url: https://online.stanford.edu
+  title: 'Statistics in Medicine'
+  url: "https://www.classcentral.com/course/stanford-openedx-statistics-in-medicine-918"
 # - certificate_url: https://www.datacamp.com
 #   date_end: "2017-12-21"
 #   date_start: "2017-07-01"
