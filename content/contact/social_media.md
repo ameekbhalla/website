@@ -34,7 +34,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: <a href="https://github.com/ameekbhalla" target="_blank"><i class="fab fa-github" style="font-size:64px"></i></a>
+- description: <a href="javascript:window.location.href=atob('bWFpbHRvOmJoYWxsYS5hbWVla0BnbWFpbC5jb20=')"><i class="fas fa-envelope" style="font-size:64px"></i></a>
 - description: <a href="https://www.linkedin.com/in/ameekbhalla" target="_blank"><i class="fab fa-linkedin" style="font-size:64px"></i></a>
 - description: <a href="https://twitter.com/ameekbhalla" target="_blank"><i class="fab fa-twitter" style="font-size:64px"></i></a>
 ---

@@ -15,7 +15,7 @@ design:
   columns: '2'
 ---
 
-I am currently focussed on using genomic data for making advancements in medicine, biotechnology, and pharmaceuticals.
-If you belong to the life science industry and would like to employ me on a project, please get in touch by clicking one of the social media icons or emailing me.
+I am currently focused on using genomic data (preferably, but not exclusively) to build machine learning models for medicine, biotechnology, and pharmaceuticals.
+If you belong to the life science industry and would like to employ me on a project, please get in touch by clicking one of the icons below.
 
 <!--# If you belong to the life science industry and would like to employ me in the research design, statistical modeling, or data presentation phases of a project, please get in touch by clicking one of the social media icons or emailing me.--->
