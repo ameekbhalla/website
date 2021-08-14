@@ -1,12 +1,12 @@
 ---
 # Display name
-title:
+title: ""
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: <a class="btn btn-outline-primary btn-lg" href="https://github.com/ameekbhalla/cv/raw/master/default-style/Ameek_Bhalla_Résumé.pdf">Download PDF résumé <i class="fas fa-file-download"></i> </a>
+role: <a class="btn btn-primary btn-lg" href="https://github.com/ameekbhalla/cv/raw/master/default-style/Ameek_Bhalla_Résumé.pdf" target="_blank">Download PDF résumé <i class="fas fa-file-download"></i> </a>
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -86,11 +86,12 @@ Hello, I am a data scientist and geneticist ---
 
 </h3>
 
-I am interested in using genomics for making predictions in medicine, biotechnology, and pharmaceuticals.
-My expertise lies in designing decisive quantitative experiments, selecting practical machine learning tools, creating intuitive data visualizations, and composing jargon-free reports.
+I believe in articulating clear hypotheses for answering research questions and then collecting reliable data to test them.
+To fulfill this ideal, I have acquired extensive experience in experimental biology, data science, and scientific writing.
+Thus, I can design decisive quantitative experiments, deploy practical machine learning tools, create intuitive data visualizations, and compose jargon-free reports.
 
-To know more about my background please download my résumé or scroll down further.
+To know more about my background and skills please download my résumé or scroll down further.
 
-<!--# The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas. If you belong to the life science industry and would like to talk more about genomic data science, please get in touch by clicking one of the social media icons. --->
+<!--# The top personality traits that my colleagues seek me out for are my critical-thinking skills, emotional stability, and openness to ideas.--->
 
 <!--# <div style="position: relative; text-align: center"> <br>Scroll through my résumé <br> <a href="#skills"> <i class="fas fa-chevron-down"></i> </a> </div>  --->
