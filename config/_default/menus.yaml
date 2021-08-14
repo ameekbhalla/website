@@ -43,6 +43,6 @@ main:
   # - name: Courses
   #   url: courses/
   #   weight: 60
-  - name: Consulting
-    url: '/consulting'
+  - name: Contact
+    url: '/Contact'
     weight: 70
