@@ -28,9 +28,9 @@ main:
     url: '#accomplishments'
     parent: "a-unique-reference" 
     weight: 30
-  # - name: Blog
-  #   url: '/blog'
-  #   weight: 20
+  - name: Blog
+    url: '/blog'
+    weight: 20
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
