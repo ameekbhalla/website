@@ -15,9 +15,13 @@ options(
   blogdown.serve_site.startup = FALSE,
   # to disable knitting Rmd files on save, set this option to FALSE
   blogdown.knit.on_save = TRUE,
-  # build .Rmd to .html (via Pandoc); to build to Markdown, set this option to 'markdown'
-  blogdown.method = 'html'
+  # build .Rmd to .html (via Pandoc); to build to Markdown, set this option to 'markdown' [use `.Rmarkdown`]
+  # blogdown.method = 'html'
+  # use `.Rmarkdown` extension; it does not build a separate `.html` file. therefore it's more portable
+  # blogdown.ext = ".Rmarkdown",
+  blogdown.author = "Ameek Bhalla",
+  blogdown.subdir = "post"
 )
 
 # fix Hugo version
-# options(blogdown.hugo.version = "0.86.0")
+options(blogdown.hugo.version = "0.86.0")
