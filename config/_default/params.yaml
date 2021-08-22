@@ -15,8 +15,8 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'A data science blog and portfolio by Ameek Bhalla'
+twitter: 'ameekbhalla'
 
 # Contact (edit or remove options as required)
 
@@ -98,7 +98,7 @@ show_related:
   publication: true
   event: true
 reading_time: true
-section_pager: false
+section_pager: true
 docs_section_pager: true
 sharing: true
 copyright_license:
