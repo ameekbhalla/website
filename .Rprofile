@@ -20,8 +20,11 @@ options(
   # use `.Rmarkdown` extension; it does not build a separate `.html` file. therefore it's more portable
   # blogdown.ext = ".Rmarkdown",
   blogdown.author = "Ameek Bhalla",
-  blogdown.subdir = "post"
-)
-
+  blogdown.subdir = "post",
 # fix Hugo version
-options(blogdown.hugo.version = "0.86.0")
+blogdown.hugo.version = "0.86.0")
+
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+library(tidyverse)
+
