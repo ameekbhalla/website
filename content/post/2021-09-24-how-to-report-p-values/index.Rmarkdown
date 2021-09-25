@@ -64,9 +64,6 @@ The 3D bar charts above have at least three problems:
 Observe how much easier it is to read the 2D versions of the charts above:
 <<<<<<< HEAD
 ```{r fig.cap = "Relationship between participants' age and their willingness to do yoga (chi-square = 13.59, p-value = 0.009)."}
-=======
-```{r fig.cap = "Relationship between participants' age and their willingness to do yoga (chi-square = 13.59, p-value = 0.009).", fig.cur = "1"}
->>>>>>> 958f2e7dbcdae6da202a2f0415690aa3a47456ac
 tibble::tribble(
   ~`Age (years)`, ~`Will do yoga (%)`,
          "18-25",                83.8,
@@ -106,4 +103,4 @@ Hence, the chi-square and p-values should be deleted altogether from the sentenc
 
 > Figure 2 illustrates that those participants who reported taking organic food sometimes had ~~significantly~~ a higher percentage of those who were willing to do yoga ~~(p ≤ 0.005)~~.
 
-Disclaimer: data labels have been changed to protect authors' identity .
+Note: data labels have been changed to protect authors' identity :wink:.
