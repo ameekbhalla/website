@@ -56,16 +56,28 @@ However, only the best authors adopt statistical recommendations.
 
 3.  Scummy authors only report if a p-value is below or above 0.05, as "we found p-value \< 0.05" or "we found p-value \> 0.05" respectively. (In the life sciences, the number 0.05 is special because a p-value below it is considered significant. "Significant" means it signifies something statistically improbable; "significant" does not mean "important".) In this case, the authors adopted strategy \#1 for their figures and strategy \#2 for the text. Besides being confusing, the mixing of the strategies also caused a mistake. In the text preceding figure 2, they wrote "p ≤ 0.005"; in figure 1 they wrote "p-value = 0.009". But 0.009 is larger than 0.005! Therefore, it is incorrect to have written, "p ≤ 0.005". All of this could be resolved if they reported the exact p-values everywhere and avoided the inequality symbols.
 
-<!-- ## How (not) to draw charts -->
+## How (not) to draw charts
 
+The 3D bar charts above have at least three problems:
+1. As is clear from their names, the "will do yoga" and "will not do yoga" responses always sum to a 100%. That is the paired red and blue bars always sum to 100% within each age (or organic food) group. Therefore, only one of the responses is needed, the other one is redundant.
+2. The gray, shadowed  regions at the top of the bars make it harder to judge their heights. Is the shadowed region included in the height or not?
+3. It's best to arrange the bars in order of their height so that you can identify the tallest and shortest bars at a glance. 
 
+Observe how much easier it is to read the 2D versions of the charts above:
+<div class="figure">
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" alt="Relationship between participants' age and their willingness to do yoga (chi-square = 13.59, p-value = 0.009)." width="672" />
+<p class="caption">Figure 3: Relationship between participants' age and their willingness to do yoga (chi-square = 13.59, p-value = 0.009).</p>
+</div>
 
-
+<div class="figure">
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-1.png" alt="Relationship between participants' past food consumption behavior and their willingness to do yoga (chi-square = 17.85, p-value = 0.001)." width="672" />
+<p class="caption">Figure 4: Relationship between participants' past food consumption behavior and their willingness to do yoga (chi-square = 17.85, p-value = 0.001).</p>
+</div>
 
 ## How (not) to interpret a chi-square test
 
 A chi-square test (χ2) only tells you if an overall relationship exists between two categorical variables; it does not let you pinpoint the source of that relationship to their specific categories.
-In the case of figure 2, the chi-square test (χ2) and the associated p-value only tell you that the chance of falling within a particular age category is related to the chnace of how a person answers the question, "will you take the do yoga?".
+In the case of figure 2, the chi-square test (χ2) and the associated p-value only tell you that the chance of falling within a particular age category is related to the chance of how a person answers the question, "will you take the do yoga?".
 It does not tell you which of the age categories is different from the others.
 Although you can tell from the heights of the bars that the age categories are different, one would have to perform a statistical test to determine if which pairwise difference is statistically significant.
 All this also applies to figure 2.
