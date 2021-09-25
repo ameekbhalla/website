@@ -62,7 +62,6 @@ The 3D bar charts above have at least three problems:
 3. It's best to arrange the bars in order of their height so that you can identify the tallest and shortest bars at a glance. 
 
 Observe how much easier it is to read the 2D versions of the charts above:
-<<<<<<< HEAD
 ```{r fig.cap = "Relationship between participants' age and their willingness to do yoga (chi-square = 13.59, p-value = 0.009)."}
 tibble::tribble(
   ~`Age (years)`, ~`Will do yoga (%)`,

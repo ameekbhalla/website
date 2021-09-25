@@ -64,7 +64,6 @@ The 3D bar charts above have at least three problems:
 3. It's best to arrange the bars in order of their height so that you can identify the tallest and shortest bars at a glance. 
 
 Observe how much easier it is to read the 2D versions of the charts above:
-<<<<<<< HEAD
 <div class="figure">
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" alt="Relationship between participants' age and their willingness to do yoga (chi-square = 13.59, p-value = 0.009)." width="672" />
 <p class="caption">Figure 3: Relationship between participants' age and their willingness to do yoga (chi-square = 13.59, p-value = 0.009).</p>
