@@ -4,9 +4,9 @@ author: Ameek Bhalla
 date: '2021-09-24'
 slug: how-to-report-p-values
 categories: []
-tags: []
+tags: ["statistics"]
 subtitle: 'A real-life case where the use of inequality signs for reporting p-values ended up confusing the authors themselves'
-summary: 'Learn when are ineqaulity signs permissible for reporting p-values; why 3D charts should be avoided at all costs; what does a chi-square test tell us about group differences.'
+summary: 'Learn when are inequality signs permissible for reporting p-values; why 3D charts should be avoided at all costs; what does a chi-square test tell us about group differences.'
 authors: []
 lastmod: '2021-09-24T15:50:11-07:00'
 featured: no
@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-I came across a manuscript which had two charts that looked something like the following charts. Observe the chi-square statistics and the p-values reported in the figure cations below the charts.
+I came across a manuscript that had two charts that looked something like the following charts. Observe the chi-square statistics and the p-values reported in the figure captions below the charts.
 
 <div class="figure">
 <img src="./fig1.png" alt="Relationship between participants' age and their willingness to do yoga (chi-square = 13.59, p-value = 0.009)." width="240" />
@@ -31,7 +31,7 @@ I came across a manuscript which had two charts that looked something like the f
 
 Now observe how they interpreted their results in the quotes below:
 
-> Figure 1 shows that a significantly higher percentage of participants in the 18-25 year age group were willing do yoga than participants in the other age groups (p ≤ 0.005).
+> Figure 1 shows that a significantly higher percentage of participants in the 18-25 year age group were willing to do yoga than participants in the other age groups (p ≤ 0.005).
 
 > Figure 2 shows that participants who took organic food sometimes had significantly a higher percentage of those who were willing to do yoga than participants who always or never took organic food (p ≤ 0.005).
 
@@ -39,7 +39,7 @@ How many kinds of errors do you see? I discuss the errors and the alternative be
 
 ## How (not) to report p-values
 
-Statisticians recommend that the authors report the exact p-values (using the equality symbol =) rather than reporting the approximate p-values (using the inequality symbol \<), unless they fall below 0.001.
+Statisticians recommend that the authors report the exact p-values (using the equality symbol =) rather than reporting the approximate p-values (using the inequality symbol \<) unless they fall below 0.001.
 Exact p-values allow readers to double-check the authors' calculations.
 However, only the best authors adopt statistical recommendations.
 
@@ -59,8 +59,8 @@ However, only the best authors adopt statistical recommendations.
 ## How (not) to draw charts
 
 The 3D bar charts above have at least three problems:
-1. As is clear from their names, the "will do yoga" and "will not do yoga" responses always sum to a 100%. That is the paired red and blue bars always sum to 100% within each age (or organic food) group. Therefore, only one of the responses is needed, the other one is redundant.
-2. The gray, shadowed  regions at the top of the bars make it harder to judge their heights. Is the shadowed region included in the height or not?
+1. As is clear from their names, the "will do yoga" and "will not do yoga" responses always sum to 100%. That is the paired red and blue bars always sum to 100% within each age (or organic food) group. Therefore, only one of the responses is needed, the other one is redundant.
+2. The gray, shadowed regions at the top of the bars make it harder to judge their heights. Is the shadowed region included in the height or not?
 3. It's best to arrange the bars in order of their height so that you can identify the tallest and shortest bars at a glance. 
 
 Observe how much easier it is to read the 2D versions of the charts above:
