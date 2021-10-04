@@ -1,0 +1,10 @@
+# Font style metadata
+name = "default"
+
+# Optional Google font URL
+google_fonts = ""
+
+# Font families
+heading_font = "Charter"
+body_font = "Charter"
+nav_font = "Charter"
