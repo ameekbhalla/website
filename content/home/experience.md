@@ -27,7 +27,7 @@ experience:
     company: Institute of Genomics and Integrative Biology (CSIR)
     company_url: 'https://www.igib.res.in/'
     location: New Delhi
-    date_start: '2017-08-01'
+    date_start: '2019-07-01'
     date_end: ''
     description: |2-
         * Designed, executed, and analyzed quantitative genetic experiments, containing 480,000 data points, to infer the heritability of metabolic traits.
@@ -37,7 +37,7 @@ experience:
     company_url: 'https://www.igib.res.in/'
     location: New Delhi
     date_start: '2015-08-01'
-    date_end: '2017-07-31'
+    date_end: '2019-06-30'
     description: |2-
         * Implemented mixed models to handle nested data, increasing statistical power by 1000%.
         * Invented techniques for mass production and processing of biological replicates, resulting in the publication of two research articles.
