@@ -1,0 +1,29 @@
+<footer class="site-footer">
+  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  <p class="powered-by">
+    {{ with site.GetPage "privacy.md" }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+  </p>
+  {{ end }}
+
+<!-- <p class="powered-by">{{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}.{{ end }};--->
+<!-- &copy; Ameek Bhalla &middot;--->
+
+License <a href="http://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i></a>. Made with the <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project fa-fw"></i></a> <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package and the <a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank" rel="noopener">Academic theme</a>. Source code <a href="https://github.com/ameekbhalla/website" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>.
+
+    {{ if not (in (slice "docs" "updates") .Type) }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+  </p>
+</footer>
