@@ -11,10 +11,10 @@
   </p>
   {{ end }}
 
-<!-- <p class="powered-by">{{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}.{{ end }};--->
-<!-- &copy; Ameek Bhalla &middot;--->
+  <p class="powered-by">
+<!--{{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}.{{ end }} &copy; Ameek Bhalla &middot;--->
 
-License <a href="http://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i></a>. Made with the <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project fa-fw"></i></a> <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package and the <a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank" rel="noopener">Academic theme</a>. Source code <a href="https://github.com/ameekbhalla/website" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>.
+License <a href="http://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i></a>. Made with the <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project fa-fw"></i></a> <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package and the <a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank" rel="noopener">Academic theme</a>. Source code <a href="https://github.com/ameekbhalla/website" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>.
 
     {{ if not (in (slice "docs" "updates") .Type) }}
     <span class="float-right" aria-hidden="true">
